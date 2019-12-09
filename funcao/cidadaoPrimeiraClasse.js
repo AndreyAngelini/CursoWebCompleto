@@ -25,4 +25,4 @@ function run(fun)
     fun()
 }
 
-run(function () { console.log('Executando.......')})
+run(function () { console.log('Executando aguarde.......')})
